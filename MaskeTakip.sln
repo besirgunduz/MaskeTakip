@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{266D452E-98B3-4EB5-AF7D-F6C44AE37C6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{6801916B-ABB2-400A-B55C-8030504D9C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{3812CCBB-3378-46E5-86B1-E2BAC6030083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266D452E-98B3-4EB5-AF7D-F6C44AE37C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266D452E-98B3-4EB5-AF7D-F6C44AE37C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266D452E-98B3-4EB5-AF7D-F6C44AE37C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266D452E-98B3-4EB5-AF7D-F6C44AE37C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6801916B-ABB2-400A-B55C-8030504D9C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6801916B-ABB2-400A-B55C-8030504D9C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6801916B-ABB2-400A-B55C-8030504D9C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6801916B-ABB2-400A-B55C-8030504D9C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3812CCBB-3378-46E5-86B1-E2BAC6030083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3812CCBB-3378-46E5-86B1-E2BAC6030083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3812CCBB-3378-46E5-86B1-E2BAC6030083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3812CCBB-3378-46E5-86B1-E2BAC6030083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308CDB1B-613C-43B8-BACB-239847B28622}
+	EndGlobalSection
+EndGlobal

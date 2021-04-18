@@ -10,8 +10,8 @@ namespace ConsoleUI
         {
             Person person = new Person();
 
-            person.NationalIdentity = 55879356390;
-            person.FirstName = "Beşir2";
+            person.NationalIdentity = 12345678910;
+            person.FirstName = "Beşir";
             person.LastName = "Gündüz";
             person.DateOfBirthYear = 1993;
 
